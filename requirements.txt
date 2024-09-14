@@ -5,3 +5,4 @@ langchain ## for reading pdfs
 PyPDF2 ## also for reading pdfs
 faiss-cpu ## for parallely reading multiple pdfs , by facebook, can also use chromadb
 langchain_google_genai ## so that langchain can access google_api_key and work with it
+langchain_community
